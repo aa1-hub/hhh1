@@ -1,0 +1,5 @@
+{
+  "name": "Dormitory Management System",
+  "description": "A smart dormitory room assignment system with gender-based matching and real-time status tracking.",
+  "requestFramePermissions": []
+}
